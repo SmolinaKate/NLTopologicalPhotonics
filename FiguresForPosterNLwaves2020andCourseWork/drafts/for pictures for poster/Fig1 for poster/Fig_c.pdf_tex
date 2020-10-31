@@ -1,0 +1,68 @@
+%% Creator: Inkscape inkscape 0.92.4, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'Fig_c.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{104.37269076bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.81795155)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{Fig_c.pdf}}%
+    \put(-0.00097646,0.75159529){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$\chi^{(3)}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{Fig_c.pdf}}%
+    \put(0.38982334,0.28497024){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$a$\end{tabular}}}}%
+    \put(0.09063795,0.07408112){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$\kappa$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{Fig_c.pdf}}%
+    \put(-0.00453692,0.45868332){\color[rgb]{0.40392157,0.47058824,0.12941176}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$-M_0$\end{tabular}}}}%
+    \put(0.05139401,0.53670046){\color[rgb]{0.83137255,0.66666667,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$M_0$\end{tabular}}}}%
+    \put(-0.00652615,0.3234924){\color[rgb]{0.40392157,0.47058824,0.12941176}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$-M_0$\end{tabular}}}}%
+    \put(0.04929745,0.24606787){\color[rgb]{0.83137255,0.66666667,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$M_0$\end{tabular}}}}%
+    \put(0.01542672,0.8962135){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{1.95812713\unitlength}\raggedright \end{minipage}}}%
+  \end{picture}%
+\endgroup%
